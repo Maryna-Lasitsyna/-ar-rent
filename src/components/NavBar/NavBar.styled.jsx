@@ -4,7 +4,7 @@ export const Nav = styled.nav`
   display: flex;
   gap: 40px;
 `;
-export const Link = styled(NavLink)`
+export const Link = styled(Link)`
   font-size: 20px;
   text-decoration: none;
   color: #010101;
